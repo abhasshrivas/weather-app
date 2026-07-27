@@ -1,1 +1,1 @@
-qr code scanner
+QR code scanner
